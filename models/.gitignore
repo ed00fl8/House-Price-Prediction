@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# Large files
+*.csv
+*.zip
+
+# System files
+.DS_Store
+
+# Secrets
+.env
