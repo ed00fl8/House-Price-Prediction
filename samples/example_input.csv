@@ -1,0 +1,4 @@
+id,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,grade,sqft_above,sqft_basement,yr_built,yr_renovated,zipcode,lat,long,sqft_living15,sqft_lot15,date
+synthetic-001,3,2.25,1800,5000,1,0,0,3,7,1200,600,1990,0,98001,47.32,-122.27,1750,5100,20141013T000000
+synthetic-002,4,3.00,2800,7200,2,0,1,4,8,2300,500,2005,2010,98004,47.62,-122.20,2650,7000,20150220T000000
+synthetic-003,2,1.00,950,4200,1,0,0,3,6,950,0,1965,0,98118,47.54,-122.27,1200,4500,20140715T000000
